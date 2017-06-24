@@ -573,7 +573,8 @@ public class MainActivity extends AppCompatActivity
         urlString.append(",");
         urlString.append(Double.toString( destlog));
         urlString.append("&sensor=false&mode=driving&alternatives=true");
-        urlString.append("&key=AIzaSyA1rRMJk1YzVzBZTvWNVYSqgZbWy68yYHg");
+        String webKey = getString(R.string.web_api_key);
+        urlString.append("&key=" + webKey);
         return urlString.toString();
     }
 }

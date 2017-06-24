@@ -2,7 +2,8 @@
     <string name="app_name">Slow Down Radar</string>
 
     <!--string name="api_key">AIzaSyCuJurvbwQEvy4Fp5n3Squ9TtyQSd-8pM4</string-->
-    <string name="api_key">AIzaSyDucdtadJa1eeyhbE8YDejOajR3U9jq4OI</string>
+    <string name="api_key">AIzaSyAtUGt9s6h-FiHDErVUE_P3R99tcG7OLMM</string>
+    <string name="web_api_key">AIzaSyD5yip-XCGbDJXpdmrT_wCuifn19NKY90c</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
